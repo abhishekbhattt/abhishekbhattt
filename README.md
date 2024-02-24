@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/abhishekbhattt/abhishekbhattt/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Abhishek Bhatt</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="image of 0 and 1" width="400" src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif">
